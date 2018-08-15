@@ -1,0 +1,21 @@
+
+<style>
+
+div{
+			border: 3px solid blue;
+			background-color: teal;
+			width: 500px;
+			height: 100px;
+			margin: 50px;
+			padding:50px;
+		}
+
+
+</style>
+
+h1{
+	color:red;
+	text-align:center;
+}
+
+p{color:red;}
